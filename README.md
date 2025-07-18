@@ -4,7 +4,7 @@
   <a href="https://www.github.com/Abelss0n">GitHub</a>
 </p>
 <p align="center">
-  <b>🚔 Find me on:</b><br>
+  <b>🖥️ Find me on:</b><br>
   <a href="https://discord.gg/4BjKeZAF">Second Act RP</a>
 </p>
 
