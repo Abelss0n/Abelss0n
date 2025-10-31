@@ -8,6 +8,9 @@
   <b>🖥️ Find me on:</b><br>
   <a href="https://discord.gg/4BjKeZAF">Second Act RP</a>
 </p>
+<p align="center">
+  ![Abelss0n's Github Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+</p>
 
 <!--
 **Abelss0n/Abelss0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
