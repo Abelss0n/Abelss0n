@@ -9,7 +9,7 @@
   <a href="https://discord.gg/4BjKeZAF">Second Act RP</a>
 </p>
 <p align="center">
-  ![Abelss0n's Github Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+  [Abelss0n's Github Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 </p>
 
 <!--
